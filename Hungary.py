@@ -1,6 +1,6 @@
 hungry = str(input("Are you hungary?"))
 
-if hungry == 'yes' and hungry == 'yo':
+if hungry == 'yes' and hungry == 'Y':
     print("Eat Samosa")
     print("Eat Pizza")
     print("Eat Burger")
